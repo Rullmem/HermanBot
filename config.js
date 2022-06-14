@@ -1,10 +1,10 @@
 
 //────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Kt69lMVe90WLBkCFcoYIyA']
-global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
-global.owner = ['6283146208804', '62882008097970', '6283125926877']// Put your number here
-global.mods = [ '6283146208804' ,  '62882008097970' ,  '6283146208804' ] // Want some help?
+global.linkGC = ['https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1']
+global.channelYT = ['https://youtu.be/jOhhY7ef_qM'] 
+global.owner = ['6285822347348', '6285822347348', '6285822347348']// Put your number here
+global.mods = [ '6285822347348' ,  '6285822347348' ,  '6285822347348' ] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -33,10 +33,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Herman'
-global.author = 'Bot'
+global.packname = 'Sticker by'
+global.author = 'ArullOfc'
 
-global.multiplier = 72366367263636 // The higher, The harder levelup
+global.multiplier = 300 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
